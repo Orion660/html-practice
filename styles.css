@@ -1,0 +1,16 @@
+title{background-color: yellow; color: black;font-size: 40px}
+h1,h4,a {color: purple; font size: 30px;font-style: italic}
+h5,{color: pink; font-style: bold; font-size: 15px}
+.life {background-color: green;font-size: 30px;font-style: inherit;}
+#new1 {background-color: yellow; color: green;font-size: 40px}
+div p{
+	font-size: 20px;font-style: italic
+}
+section {font-size: 20px; color: grey;font-style: inherit;background-color: black}
+.pics {
+	margin: 40px 20px 40px 20px
+	display: inline-table;margin-bottom: black
+}
+
+}
+#new2{background-color: purple;color: black;font-size: 20px;font-style: initial;}
